@@ -28,7 +28,7 @@ assignees: ''
 *Copy-paste here the information as it is outputted by the device. You can get this information by typing `info` via serial, terminal or in the debug tab in the web UI. The relevant information is that surrounded by the scissors-cut lines (`---8<-------`).*
 *If you cannot get this info from the device, please answer this questions:*
 * *Arduino Core version*
-* *ESPurna version*
+* *ESPurna version (or GIT commit hash when using the development version)*
 * *Flash mode*
 * *Device brand, model and version*
 
